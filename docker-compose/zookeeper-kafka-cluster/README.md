@@ -1,0 +1,2 @@
+- 1  set your ip into .env file
+- 2  `docker-compose -d up`
