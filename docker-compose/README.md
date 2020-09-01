@@ -2,7 +2,7 @@
 ```
 cd dir
 docker-compose -d up 
-dcoker-compose down
+docker-compose stop
 docker-compose rm // remove the containers
 ```
 
